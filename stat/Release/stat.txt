@@ -1,0 +1,7 @@
+-*-  Stat  *  (c)  Gazlan,  2018  -*-
+
+Calculate character statistics
+
+Usage: stat.com victim
+
+complains_n_suggestions direct to gazlan@yandex.ru
